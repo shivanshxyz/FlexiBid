@@ -2,6 +2,12 @@
 
 FlexiBid enhances Flaunch's BidWall mechanism with volatility-responsive market making strategies, delivering superior price protection and capital efficiency for memecoins.
 
+
+
+https://github.com/user-attachments/assets/d1ee917a-c5a7-4f5a-856f-25cf65eb0f19
+
+
+
 ## 🌟 Overview
 FlexiBid transforms the static 1-tick-below market making approach of Flaunch's BidWall into a sophisticated, adaptive system that responds to market conditions in real-time. By measuring volatility and adjusting liquidity positions accordingly, FlexiBid provides:
 
